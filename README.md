@@ -6,6 +6,12 @@ There will be 2 versions of files, the bypass (Bypass.py), and another file whic
 This bypass was originally made over 3 months ago (which could make this the first official actual working bypass). The bypass was made alongside multiple people, consisting of Me (ChrxnZ/Pulsed#1874), [YeetDisDude](https://github.com/YeetDisDude) & [TonicBoomerKewl](https://github.com/TonicBoomerKewl).
 ### More Information
 This project was made to be as small as possible for efficiency, in which we got it to work on a 2GB Ram + Intel Celeron Laptop, which could also perhaps make it the smallest auth.gg Bypass.
+### Where the Project was found to work
+We mostly tested the bypass on Mod Menus which used auth.gg's authentication system on both IOS & Android systems including:
+- ZygiskPG / zyCheatsPG (Android)
+- Rednick / Red16's PG3D Mod Menu (IOS)
+### Notes
+I will not be maintaining this project. If it gets patched, it's patched and there's nothing I will do. Also note that this bypass **was patched before in ZygiskPG by [Fedesito](https://github.com/fedes1to) using a weird system** (which i doubt you'll be able to find on the internet anywhere).
 ### Credits
 - Idea : [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - Testing & Improvement : [YeetDisDude](https://github.com/YeetDisDude)
@@ -13,4 +19,35 @@ This project was made to be as small as possible for efficiency, in which we got
 # License
 ### This repository is licensed under the [Creative Commons Zero v1.0 Universal (CC0-1.0) license](https://github.com/ChrxnZ/Auth.GG-MitmProxy-Bypass/blob/main/LICENSE)
 This allows you to use this repository and its contents for {Commercial Use, Modification with giving credits to the original creator (Me), Distribution amongst others, and Private Use}, However, you are not given permissions to {Take liability And/Or Warranty for this original project (in other words, don't take credits), or use in trademark and/or patent purposes}.
-# WIP
+
+# Setup
+### Minimum Requirements
+Pc/Laptop with:
+- Windows 8.1-11?
+- 2GB Ram
+- Intel Celeron
+- Python 3.7+
+- MitmProxy PC Certificate & Python Module
+- PyperClip Python Module
+
+If bypass is desired to work on a mobile device:
+- MitmProxy Mobile Certificate
+- [Super Proxy Application](https://play.google.com/store/apps/details?id=com.scheler.superproxy) (Android)
+
+IOS Requirements yet to come (WIP LIKELY BY YEETDISDUDE)
+
+# Tutorial(s)
+### PC
+Here are the following steps to get the bypass working on PC:
+- Go to Proxy settings on your PC
+- Enter the address as **127.0.0.1** & the Port as **8080**
+- Run (**Bypass.py**)
+- Open either Terminal or CMD
+- Perform a Paste (Ctrl + V)
+- Click Enter
+- Open the application which uses auth.gg Authentication
+Easy as that.
+### Mobile Devices (Android)
+WIP!
+### Mobile & iPad Devices (IOS)
+WIP! 
