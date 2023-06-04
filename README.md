@@ -1,7 +1,7 @@
 # auth.gg Bypass
 ### About the Project
 This Bypass allows you to spoof the HTTP-POST request JSON response of api.auth.gg to allow immediate access.
-There will be 2 versions of files, the bypass (Bypass.py), and another file which allows you to further on spoof the HTTP-POST request JSON response (Spoof.py).
+There will be 2 versions of files, the bypass ([Bypass.py](https://github.com/ChrxnZ/Auth.GG-MitmProxy-Bypass/blob/main/src/Bypass.py)), and another file which allows you to further on spoof the HTTP-POST request JSON response ([Spoof.py](https://github.com/ChrxnZ/Auth.GG-MitmProxy-Bypass/blob/main/src/Spoof.py)).
 ### Background Information
 This bypass was originally made over 3 months ago (which could make this the first official actual working bypass). The bypass was made alongside multiple people, consisting of Me (ChrxnZ/Pulsed#1874), [YeetDisDude](https://github.com/YeetDisDude) & [TonicBoomerKewl](https://github.com/TonicBoomerKewl).
 ### More Information
