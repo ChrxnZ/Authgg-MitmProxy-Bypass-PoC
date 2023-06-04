@@ -41,12 +41,13 @@ IOS Requirements yet to come (WIP LIKELY BY YEETDISDUDE)
 Here are the following steps to get the bypass working on PC:
 - Go to Proxy settings on your PC
 - Enter the address as **127.0.0.1** & the Port as **8080**
+- Click Save (Internet will stop working until you run the bypass)
 - Run (**Bypass.py**)
 - Open either Terminal or CMD
 - Perform a Paste (Ctrl + V)
 - Click Enter
 - Open the application which uses auth.gg Authentication
-Easy as that.
+Easy as that. (Video to be made soon)
 ### Mobile Devices (Android)
 WIP!
 ### Mobile & iPad Devices (IOS)
