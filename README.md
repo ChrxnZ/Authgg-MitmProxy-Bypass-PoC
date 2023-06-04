@@ -51,4 +51,8 @@ Easy as that. (Video to be made soon)
 ### Mobile Devices (Android)
 WIP!
 ### Mobile & iPad Devices (IOS)
-WIP! 
+1) On your PC, open powershell and type ipconfig and get your pc's local IP
+2) On your iPhone/iPad go to Settings > WiFi > Configure Proxy > Select Manual and type in your PC's ipv4 address and type 8080 for the port
+3) Go to https://mitm.it and get the certificate
+4) Trust the certificate and on your PC run mitmweb -s path/to/script.py
+5) Open the Application which uses auth.gg and login with any username/password
