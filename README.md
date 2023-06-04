@@ -12,6 +12,7 @@ We mostly tested the bypass on Mod Menus which used auth.gg's authentication sys
 - Rednick / Red16's PG3D Mod Menu (IOS)
 ### Notes
 I will not be maintaining this project. If it gets patched, it's patched and there's nothing I will do. Also note that this bypass **was patched before in ZygiskPG by [Fedesito](https://github.com/fedes1to) using a weird system** (which i doubt you'll be able to find on the internet anywhere).
+This bypass also works usually on unencrypted/unobfuscated requests.
 ### Credits
 - Idea : [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - Testing & Improvement : [YeetDisDude](https://github.com/YeetDisDude)
